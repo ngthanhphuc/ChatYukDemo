@@ -1,0 +1,11 @@
+.gradle/
+.idea/
+app/app.iml
+ app/build/
+build/
+ChatYukDemo.iml
+local.properties
+*.properties
+.DS_Store
+*.iml
+build.sh
